@@ -1,7 +1,12 @@
 # **Hey_Day.sh README**
 
-**"Hey Day"** is an Auburn University annual tradition spanning back to World War II. 
+This script will prompt you to input a name and will then print that name following a "Hey" greeting.
 
+
+**So what is Hey Day?**
+
+
+**"Hey Day"** is an Auburn University annual tradition spanning back to World War II. 
 
 What began as a day to greet soldiers returning home from the war became a long-standing tradition
 where students wear name-tags and greet each other, get to know eachother, make new friends, 
