@@ -7,5 +7,5 @@ echo "Enter your name"
 read name 
 
 #The user's name is printed as the variable following a greeting!
-echo "Hey $name"
+echo "Hey, $name!"
 
